@@ -1,8 +1,7 @@
 Ejercicio 1:
 
-Ingresar en el terminal:
-
-psql < unidad2.sql 
+-- En la terminal (no en el postgres) se tiene que ingresar:
+-- psql -U rafael comportamiento_cliente < unidad2.sql;
 
 
 Ejercicio 2:
